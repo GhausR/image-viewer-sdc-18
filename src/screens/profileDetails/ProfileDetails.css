@@ -1,0 +1,30 @@
+.profile_details-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto 30px auto;
+    width: 700px;
+}
+.profile_pic-div{
+    margin-right: 20px;
+}
+.user_profile_data_numbers-div{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: flex-start; 
+}
+.edit_icon_tag-div{
+    display: flex;
+    flex-direction: row;
+}
+.tag-div{
+    padding-right: 10px;
+}
+.grid-post-count-div{
+    width: 500px;
+}
+.profile-data-username-bold-div{
+    font-weight: bold;
+}
