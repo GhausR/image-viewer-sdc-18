@@ -1,0 +1,23 @@
+.login-card {
+    margin: 10px auto 10px auto;
+    width: 350px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #d8e3e7;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0;
+}
+.login-form-control{
+    width: 100%;
+}
+#login-card-heading{
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+.DispNone {
+    display: none;
+}
+.DispRed {
+    display: block;
+}
